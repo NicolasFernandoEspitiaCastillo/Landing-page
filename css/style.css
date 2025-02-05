@@ -4,3 +4,45 @@
     padding: 0;
     box-sizing: border-box;
 }
+main
+
+body{
+    width: 100%;
+}
+
+.container_text{
+    /* background: red; */
+    width: 610px;
+    height: 145px;
+    margin-left: 415px;
+    margin-top: 64px;
+    h1{
+        font-size: 64px;
+        font-family: "Avenir-Heavy";
+        text-align: center;  
+    }
+    p{
+        font-size: 26px;
+        text-align: center;  
+        font-family: "Avenir-Roman";
+    }
+    button{
+        width: 158px;
+        height: 54px;
+        font-size: 18px;
+        border-radius: 16px;
+        font-family: "Avenir-Roman";
+        margin-top: 24px;
+        margin-left: 226px;
+        background: var(--color-2);
+        color: var(--color-3);
+    }
+
+}
+.container_img_first{
+    background: blue;
+    margin-top: 274px;
+}
+.container_img_second{
+    background: violet;
+}
