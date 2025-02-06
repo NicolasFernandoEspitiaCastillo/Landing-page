@@ -40,9 +40,27 @@ body{
 
 }
 .container_img_first{
-    background: blue;
-    margin-top: 274px;
+    /* background: blue; */
+    
+
 }
+.container_img_first img { 
+    width: 1250px;
+    height: 288px;
+    margin-left: 80px;
+    margin-top: 250px;
+    gap: 5px;
+}
+
 .container_img_second{
-    background: violet;
+    /* background: violet; */
+    
+
+}
+.container_img_second img { 
+    width: 1250px;
+    height: 288px;
+    margin-left: 80px;
+    margin-top: 30px;
+    gap: 5px;
 }
