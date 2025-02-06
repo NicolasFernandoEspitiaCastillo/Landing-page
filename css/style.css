@@ -4,3 +4,34 @@
     padding: 0;
     box-sizing: border-box;
 }
+main
+
+.container_text{
+    /* background: red; */
+    width: 444px;
+    height: 473px;
+    margin-top: 137px;
+    margin-left: 67px;
+}
+.container_text h1 {
+    width: 444px;
+    height: 231px;
+    font-size: 56px;
+    font-family: "Avenir-Heavy";
+}
+.container_text p{
+    background: beige;
+    width: 386px;
+    height: 144px;
+    font-size: 26px;
+    font-family: "Avenir-Roman";
+}
+.container_text button{
+    width: 157px;
+    height: 50px;
+    background: var(--color-1);
+    color: var(--color-3);
+    border-radius: 16px;
+    font-size: 18px;
+    font-family: "Avenir-Roman";
+}
