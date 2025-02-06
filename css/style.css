@@ -6,12 +6,15 @@
 }
 main
 
+body{
+    width: 100%;
+}
 .container_text{
     /* background: red; */
     width: 444px;
     height: 473px;
     margin-top: 137px;
-    margin-left: 67px;
+    margin-left: 40px;
 }
 .container_text h1 {
     width: 444px;
@@ -20,7 +23,6 @@ main
     font-family: "Avenir-Heavy";
 }
 .container_text p{
-    background: beige;
     width: 386px;
     height: 144px;
     font-size: 26px;
@@ -34,4 +36,22 @@ main
     border-radius: 16px;
     font-size: 18px;
     font-family: "Avenir-Roman";
+}
+.container_img1{
+    width: 350px;
+    height: 430px;
+    margin-top: -580px;
+    margin-left: 450px;
+}
+.container_img2{
+    width: 350px;
+    height: 430px;
+    margin-top: -300px;
+    margin-left: 900px;
+}
+.container_img3{
+    width: 1312px;
+    height: 440px;
+    margin-left: 20px;
+    margin-top: 50px;
 }
