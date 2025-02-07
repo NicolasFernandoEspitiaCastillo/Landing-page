@@ -4,3 +4,23 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container_text {
+    /* background: red; */
+    width: 531px;
+    height: 208px;
+    margin-top: 64px;
+    margin-left: 64px;
+    font-family: "Avenir-Heavy";
+    font-size: 77px;
+    color: var(--color-2);
+}
+.container_img{
+    /* background: blue; */
+    width: 1312px;
+    height: 549px;
+    margin-left: 64px;
+    margin-top: 50px; 
+    display: flex;
+    align-items: flex-start;
+    gap: 56px;
+}
