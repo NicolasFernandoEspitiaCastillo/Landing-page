@@ -6,13 +6,29 @@
 }
 .container_icon{
     background: red;
+    margin-top: 64.75px;
+    margin-left: 64.75px;
+    width: 101.04px;
+    height: 101.16px;
 }
 .container_text{
     background: blue;
+    margin-top: 55px;
+    margin-left: 64px;
+    width: 653px;
+    height: 460px;
 }
 .container_img {
     background: violet;
+    margin-top: -610px;
+    margin-left: 741px;
+    width: 635.31px;
+    height: 778.19px;
 }
 .container_list{
     background: green;
+    margin-top: -90px;
+    margin-left: 64px;
+    width: 652px;
+    height: 118px;
 }
