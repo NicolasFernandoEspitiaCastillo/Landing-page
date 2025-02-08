@@ -4,3 +4,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container_icon{
+    background: red;
+}
+.container_text{
+    background: blue;
+}
+.container_img {
+    background: violet;
+}
+.container_list{
+    background: green;
+}
