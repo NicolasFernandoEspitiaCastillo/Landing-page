@@ -7,46 +7,75 @@
 body{
     margin-left: 64px;
     margin-top: 63px;
+    margin-bottom: 63px;
+    width: 100%;
 }
 .container_text{
-    background: blue;
-    width: 850px;
+    /* background: blue; */
+    width: 833px;
     height: 176px;
-    font-size: 72px;
+    font-size: 62px;
+    font-family: "Avenir-Heavy";
+    color: var(--color-1);
     
 }
 .div_big{
     display: flex;
     flex-direction: row; /* Asegura que los elementos se alineen horizontalmente */
     gap: 16px; /* Espacio entre los contenedores */
-  }
 
+  }
+.div_text{
+    /* background: red; */
+    margin-top: 60px;
+    width: 316px;
+    height: 133px;
+    
+}
+.div_text h2{
+    font-family: "Avenir-Heavy";
+    font-size: 40px;
+    margin: 12px;
+    color: var(--color-3);
+    
+}
+.div_text p{
+    font-family: "Avenir-Roman";
+    font-size: 24px;
+    margin-bottom: 24px;
+    color: var(--color-2);
+}
 .div_img {
-    background-color: green;
-    width: 316px; /* Ancho de cada contenedor */
+    /* background-color: green; */
+    width: 316px; 
     height: 402px;
     text-align: center;
     
 }
 .div_img img{
-    background: orange;
     width: 316px;
     height: 402px;
     position: relative;
 }
 .div_img h4{
-    top: -60px;
+    width: 48px;
+    height: 33px;
+    top: -150px;
     position: relative;
+    font-size: 24px;
+    text-align: left;
+    margin: 24px;
+    color: var(--color-1);
 }
 .div_img p{
-    top: -60px;
+    width: 213px;
+    height: 66px;
+    top: -160px;
     position: relative;
+    font-family: "Avenir-Roman";
+    font-size: 16px;
+    text-align: left;
+    margin-left: 15px;
+    color: var(--color-1);
 }
 
-.div_text{
-    background: red;
-    margin-top: 60px;
-    width: 316px;
-    height: 133px;
-
-}
