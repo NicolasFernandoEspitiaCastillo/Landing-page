@@ -2,6 +2,8 @@
     --color-1: #E5B94B;
     --color-2: hsla(0, 0%, 100%, 0.500);
     --color-3: #FFFFFF;
+    --color-4: #AB2706;
+    --color-5: #080808;
 }
 @font-face {
     font-family: "WorkSans-Bold";
