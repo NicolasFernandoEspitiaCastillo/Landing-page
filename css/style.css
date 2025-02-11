@@ -4,3 +4,39 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container{
+    background: red;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.container_text{
+    background: blue;
+    width: 756px;
+    height: 310px;
+    margin-left: 295px;
+    margin-top: 64px;
+}
+.img_right{
+    background: violet;
+    width: 537px;
+    height: 512px;
+    margin-left: -210px;
+}
+.img_left{
+    background: orange;
+    grid-column: 1 / 3;
+    width: 462px;
+    height: 508px;
+    margin-left: 64px;
+    margin-top: -90px;
+}
+.container_list{
+    background: green;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column: 1 / 3;
+    margin-left: 428px;
+    margin-top: -330px;
+    width: 948px;
+    height: 272px;
+}
