@@ -1,8 +1,9 @@
 :root{
     --color-1: #363830; 
-    --color-2: #FFFFFF;
+    --color-2: hsl(0, 0%, 100%);
     --color-3: hsla(0, 0%, 100%, 0.600);
-    --color-4: #97A3A3;
+    --color-4: hsl(180, 6%, 61%, 100%);
+    --color-5: hsl(202, 7%, 80%, 100%);
 
 }
 @font-face {

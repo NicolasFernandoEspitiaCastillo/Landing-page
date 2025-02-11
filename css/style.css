@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 .container{
-    background: var(--color-4);
+    background: linear-gradient(131deg, hsl(202, 7%, 80%), hsl(180, 6%, 61%));
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
@@ -14,7 +14,6 @@
     width: 537px;
     height: 512px;
     margin-left: -210px;
-    
 }
 .container_text{
     /* background: var(--color-1); */
@@ -22,6 +21,7 @@
     height: 310px;
     margin-left: 295px;
     margin-top: 64px;
+    z-index: 1;
     h1{
         font-size: 88px;
         font-family: "Poppins-Bold";
@@ -56,7 +56,8 @@
     margin-top: -90px;
 }
 .container_list{
-    background: var(--color-3);
+    background-color: hsla(0, 0%, 100%, 0.6);
+    opacity: 0.5;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-column: 1 / 3;
