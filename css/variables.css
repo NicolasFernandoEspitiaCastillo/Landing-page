@@ -1,0 +1,19 @@
+:root{
+    --color-1: #363830; 
+    --color-2: #FFFFFF;
+    --color-3: hsla(0, 0%, 100%, 0.600);
+    --color-4: #97A3A3;
+
+}
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url(../storage/fonts/poppins/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: "Avenir-Roman";
+    src: url(../storage/fonts/avenir/AvenirLTStd-Roman.otf);
+}
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url(../storage/fonts/poppins/Poppins-Bold.ttf);
+}
