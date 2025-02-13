@@ -1,0 +1,17 @@
+:root{
+    --color-1: #FFFFFF;
+    --color-2: #0D0F1B;
+    --color-3: #100E19;
+    --color-4: hsla(0, 0%, 100%, 0.116);
+    
+    
+}
+@font-face {
+    font-family: "Lato-Black";
+    src: url(../storage/fonts/Lato/Lato-Black.ttf);
+}
+@font-face {
+    font-family: "Lato-Regular";
+    src: url(../storage/fonts/Lato/Lato-Regular.ttf);
+}
+
