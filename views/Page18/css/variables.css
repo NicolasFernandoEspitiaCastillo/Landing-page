@@ -1,0 +1,20 @@
+:root{
+    --color-1: #FFFFFF;
+    --color-2: #252525;
+}
+@font-face {
+    font-family: "times-new-roman-bold";
+    src: url(../storage/fonts/times/Typography\ Times\ Bold.ttf);
+}
+@font-face {
+    font-family: "times-new-roman-regular";
+    src: url(../storage/fonts/times/Typography\ Times\ Regular.ttf);
+}
+@font-face {
+    font-family: "times-new-roman-italic";
+    src: url(../storage/fonts/times/Typography\ Times\ Italic.ttf);
+}   
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url(../storage/fonts/poppins/Poppins-Regular.ttf);  
+}   
