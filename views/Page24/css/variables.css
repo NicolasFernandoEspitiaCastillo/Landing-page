@@ -1,0 +1,29 @@
+:root{
+    --color-1: #FFFFFF;
+    --color-2: #E3B635;
+    --color-3: #333333;
+    --color-4: #242424;
+    --color-5: #252525; 
+}
+
+
+@font-face {
+    font-family: "Inter-SemiBold";
+    src: url(../storage/fonts/Inter/Inter_18pt-SemiBold.ttf);
+}
+@font-face {
+    font-family: "Inter-Light";
+    src: url(../storage/fonts/Inter/Inter_18pt-Light.ttf);
+}   
+@font-face {
+    font-family: "Inter-Regular";
+    src: url(../storage/fonts/Inter/Inter_18pt-Regular.ttf);
+}
+@font-face {
+    font-family: "Inter-Medium";
+    src: url(../storage/fonts/Inter/Inter_18pt-Medium.ttf);
+}
+@font-face {
+    font-family: "ZillaSlab-Medium";
+    src: url(../storage/fonts/Zilla_Slab/ZillaSlab-Medium.ttf);
+}
