@@ -1,0 +1,48 @@
+@import url(variables.css);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container_title{
+    /* background: red; */
+    width: 674px;
+    height: 80px;
+    font-size: 77px;
+    font-family: "Avenir-Heavy";
+    color: var(--color-2);
+    margin-top: 122px;
+    margin-left: 64px;
+
+}
+.container_text{
+    /* background: orange; */
+    /* margin-top: 122px; */
+    margin-left: 851px;
+}
+.container_text p{
+    /* background: green; */
+    width: 526px;
+    height: 108px;
+    margin-top: -80px;
+    font-size: 26px;
+    font-family: "Avenir-Roman";
+    color: var(--color-3);
+}
+.container_text button{
+    background: var(--color-2);
+    width: 157px;
+    height: 50px;
+    color: var(--color-1);
+    border-radius: 16px;
+    font-size: 18px;
+    font-family: "Avenir-Roman";
+    
+}
+.container_img{
+    background: violet;
+    margin-top: 120px;
+    margin-left: 64px;
+    width: 1313px;
+    height: 732px;
+}
